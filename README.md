@@ -1,4 +1,6 @@
 ### Hi there 👋
+### TheHigherUps Classified
+### We Are TheHigherUps And We Know Everthing
 
 <!--
 **TheHigherUps/TheHigherUps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

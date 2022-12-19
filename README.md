@@ -6,6 +6,13 @@
 ### Main Website: https://www.thehigherups.org || Shop: https://shop.thehigherups.org
 
 ### Current Schedule
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
+
+
 Mon - Thus | 8am - 10am // 12pm - 3pm 
 Fri | 9am - 10am // 1pm - 2pm
 Saturday | No set schedule - work will be done most saturdays

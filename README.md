@@ -7,10 +7,13 @@
 
 ### Current Schedule
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
+| Day               | Hours |
+| ------------------| ----------- |
+| Monday - Thursday | 8am - 10am // 12pm - 3pm |
+| Friday            | 9am - 10am // 1pm - 2pm  |
+| Saturday          | No set schedule          |
+| Sunday            | Off                      |
+
 
 
 Mon - Thus | 8am - 10am // 12pm - 3pm 

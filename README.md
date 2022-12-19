@@ -5,6 +5,18 @@
 ### Keeping It PC Since 1997
 ### Main Website: https://www.thehigherups.org || Shop: https://shop.thehigherups.org
 
+### Current Schedule
+--------------------------------------------------------------------
+| Mon - Thurs | 8am - 10am // 12pm - 3pm                           |
+|------------------------------------------------------------------|
+|    Fri      | 9am - 10am // 1pm - 2pm                            |
+|------------------------------------------------------------------|
+|  Saturday   | No set schedule - work will be done most saturdays |
+|------------------------------------------------------------------|
+|   Sunday    | Off                                                |
+--------------------------------------------------------------------
+ 
+
 
 <img src="logo.png">
 
